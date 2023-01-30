@@ -7,8 +7,8 @@ st.set_page_config(
 	layout='wide'
 )
 
-st.text('🎈Streamlit 프로토타입 만들기')
-st.title('안녕하세요 河北 彩花｜Saika Kawakita😎')
+st.text('🎈채정현: Streamlit 프로토타입 만들기')
+st.title('안녕하세요 대한민국 부동산 PF는 망했습니다 - BY 오정태쿠')
 st.header('🐱‍🐉안녕하세요 헤드입니다')
 st.markdown('안녕하세요 마크다운 김마크다운입니다')
 st.markdown("1.안녕하세요 마크마크")
